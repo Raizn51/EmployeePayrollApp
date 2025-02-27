@@ -42,4 +42,6 @@ public class EmployeePayrollData
     public void setSalary(long salary) {
         this.salary = salary;
     }
+
 }
+
